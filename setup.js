@@ -1,2 +1,2 @@
-function setup(){
+function setUp(){
 }
